@@ -29,3 +29,11 @@ MP3 · 320 kb/s · 48 kHz stereo · 2 minutes 50 seconds.
 Strong deep-bass boost and low-end punch, with loudness normalization and true-peak limiting.
 
 MP3 · 320 kb/s · 44.1 kHz stereo · 3 minutes 42 seconds.
+
+### 52 Bars — MADE BY RUDRA intro
+
+[Download 52 Bars — High Bass — MADE BY RUDRA Intro](52-Bars-High-Bass-Made-By-Rudra.mp3?raw=1)
+
+An original deep synthetic male voice says “MADE BY RUDRA” before the high-bass track, with a short pause before the music. The existing song audio packets are preserved exactly.
+
+MP3 · 320 kb/s · 44.1 kHz stereo · 3 minutes 44 seconds.
