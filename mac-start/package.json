@@ -1,0 +1,10 @@
+{
+  "name": "mac-start",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Safari-inspired Chrome New Tab extension.",
+  "scripts": {
+    "test": "node --test tests/model.test.cjs",
+    "test:browser": "node tests/browser.cjs"
+  }
+}

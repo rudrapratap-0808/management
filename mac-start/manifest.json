@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Mac Start — Safari-inspired New Tab",
+  "version": "1.0.0",
+  "description": "A calm, Safari-inspired start page with a macOS-style desktop, glass panels, favorites, and local customization.",
+  "minimum_chrome_version": "111",
+  "permissions": ["storage"],
+  "chrome_url_overrides": { "newtab": "newtab.html" },
+  "action": { "default_title": "Open Mac Start" },
+  "background": { "service_worker": "background.js" },
+  "icons": { "16": "assets/icon16.png", "32": "assets/icon32.png", "48": "assets/icon48.png", "128": "assets/icon128.png" },
+  "content_security_policy": { "extension_pages": "script-src 'self'; object-src 'none'" }
+}

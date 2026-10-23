@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Mac Start</title>
+  <link rel="icon" href="assets/icon32.png">
+  <link rel="stylesheet" href="newtab.css">
+  <script src="model.js" defer></script>
+  <script src="newtab.js" defer></script>
+</head>
+<body>
+  <svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+    <symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m16 8-2.5 5.5L8 16l2.5-5.5Z"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></symbol>
+    <symbol id="i-sidebar" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M9 4v16M5.5 8h1M5.5 11h1"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-settings" viewBox="0 0 24 24"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="2.5"/><circle cx="15" cy="17" r="2.5"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="m12 3 8 3v5c0 5-5 8-8 10-3-2-8-5-8-10V6Z"/><path d="m8.5 11.5 2.5 2.5 4.5-5"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M9 5H5v14h14v-4M13 5h6v6m-9 3 9-9"/></symbol>
+    <symbol id="i-edit" viewBox="0 0 24 24"><path d="m15 4 5 5-11 11H4v-5Zm-3 3 5 5"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+    <symbol id="i-home" viewBox="0 0 24 24"><path d="m3 11 9-8 9 8M5 10v11h5v-7h4v7h5V10"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 5v15M3 4c4-1 6 0 9 2 3-2 5-3 9-2v14c-4-1-6 0-9 2-3-2-5-3-9-2Z"/></symbol>
+    <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 6 9 7 9-7"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="m9 5 11 7-11 7Z"/></symbol>
+    <symbol id="i-github" viewBox="0 0 24 24"><path d="M9 19c-4 1-4-2-6-2m14 5v-4c0-1-.4-1.8-1-2 3-.4 5-1.5 5-6 0-1.3-.5-2.4-1.3-3.3.1-.8.2-2.1-.4-3.2 0 0-1.2-.4-3.6 1.3a12 12 0 0 0-6.4 0C6.9 3.1 5.7 3.5 5.7 3.5c-.6 1.1-.5 2.4-.4 3.2C4.5 7.6 4 8.7 4 10c0 4.5 2 5.6 5 6-.6.4-1 1.2-1 2v4"/></symbol>
+    <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 10h18M7 14h2m3 0h2m3 0h1M7 17h2m3 0h2"/></symbol>
+  </defs></svg>
+
+  <header class="menubar"><div class="menu-left"><svg class="icon"><use href="#i-compass"/></svg><strong>Mac Start</strong><span class="menubar-note">A little space for you.</span></div><div class="menu-right"><span class="local-indicator"><i></i> On this device</span><time id="menu-clock"></time></div></header>
+
+  <div class="browser-window">
+    <header class="toolbar">
+      <div class="traffic-lights" aria-hidden="true"><i></i><i></i><i></i></div>
+      <button class="icon-button sidebar-button" id="sidebar-toggle" aria-label="Show shortcuts sidebar" aria-expanded="false" aria-controls="sidebar"><svg class="icon"><use href="#i-sidebar"/></svg></button>
+      <form id="search-form" class="search-form" role="search"><svg class="icon"><use href="#i-search"/></svg><input id="search" autocomplete="off" spellcheck="false" aria-label="Search the web or enter a website" placeholder="Search or enter website name"><kbd class="search-key">⌘ K</kbd><button type="submit" class="search-submit" aria-label="Go"><svg class="icon"><use href="#i-arrow"/></svg></button></form>
+      <div class="toolbar-actions"><button id="add-toolbar" class="icon-button" aria-label="Add a favorite"><svg class="icon"><use href="#i-plus"/></svg></button><button class="icon-button open-settings" aria-label="Customize start page"><svg class="icon"><use href="#i-settings"/></svg></button></div>
+    </header>
+    <div class="window-body">
+      <aside id="sidebar" class="sidebar" hidden><p class="sidebar-label">YOUR SPACE</p><button class="sidebar-home" id="home-button"><svg class="icon"><use href="#i-home"/></svg> Start page</button><p class="sidebar-label">FAVORITES</p><nav id="sidebar-links" aria-label="Favorite websites"></nav><p class="sidebar-foot">A fresh tab.<br>A fresh perspective.</p></aside>
+      <div class="page-surface" id="page-surface"><main id="main">
+        <section class="greeting"><div><p class="eyebrow" id="today"></p><h1 id="greeting">Make yourself at home.</h1><p class="greeting-note">Your favorite corners of the internet, all together.</p></div><span class="greeting-compass" aria-hidden="true"><svg><use href="#i-compass"/></svg></span></section>
+
+        <section id="favorites-section" class="favorites-section"><div class="section-heading"><h2>Favorites</h2><button id="edit-favorites" class="text-button" aria-pressed="false">Edit <svg class="icon"><use href="#i-edit"/></svg></button></div><div class="favorites-grid" id="favorites-grid"></div></section>
+
+        <section id="privacy-section" class="privacy-section"><h2>Your space, kept local</h2><div class="privacy-card"><span class="privacy-shield"><svg class="icon"><use href="#i-shield"/></svg></span><div><strong>A calmer tab. A little more privacy.</strong><p>No account, no analytics. Your shortcuts and settings stay on this device.</p></div><span class="privacy-badge">JUST YOURS</span></div></section>
+
+        <section id="inspiration-section" class="inspiration-section"><div class="section-heading"><h2>A little inspiration</h2><span class="section-note">Something beyond the usual</span></div><div class="inspiration-grid">
+          <a class="inspiration-card" href="https://unsplash.com/"><div><span class="card-category">CHANGE YOUR SCENERY</span><h3>A world worth<br>looking at.</h3><span class="card-domain">unsplash.com <svg class="icon"><use href="#i-external"/></svg></span></div><div class="card-art landscape" aria-hidden="true"><i></i><i></i><i></i></div></a>
+          <a class="inspiration-card" href="https://developer.mozilla.org/"><div><span class="card-category">FOLLOW YOUR CURIOSITY</span><h3>Learn one<br>new thing.</h3><span class="card-domain">developer.mozilla.org <svg class="icon"><use href="#i-external"/></svg></span></div><div class="card-art abstract" aria-hidden="true"><i></i><i></i><i></i></div></a>
+          <a class="inspiration-card" href="https://www.nasa.gov/"><div><span class="card-category">LOOK A LITTLE FURTHER</span><h3>There’s more<br>out there.</h3><span class="card-domain">nasa.gov <svg class="icon"><use href="#i-external"/></svg></span></div><div class="card-art planet" aria-hidden="true"><i></i></div></a>
+        </div></section>
+        <footer class="page-footer"><span>Less noise. More possibility.</span><button class="text-button open-settings"><svg class="icon"><use href="#i-settings"/></svg> Customize</button></footer>
+      </main></div>
+    </div>
+  </div>
+
+  <nav class="dock" id="dock" aria-label="Quick launch"><button class="dock-app dock-finder" id="dock-search" aria-label="Search"><svg class="icon"><use href="#i-search"/></svg><span>Search</span></button><a class="dock-app dock-google" href="https://www.google.com/" aria-label="Google"><b>G</b><span>Google</span></a><a class="dock-app dock-mail" href="https://mail.google.com/" aria-label="Gmail"><svg class="icon"><use href="#i-mail"/></svg><span>Gmail</span></a><a class="dock-app dock-youtube" href="https://www.youtube.com/" aria-label="YouTube"><svg class="icon"><use href="#i-play"/></svg><span>YouTube</span></a><a class="dock-app dock-github" href="https://github.com/" aria-label="GitHub"><svg class="icon"><use href="#i-github"/></svg><span>GitHub</span></a><a class="dock-app dock-calendar" href="https://calendar.google.com/" aria-label="Google Calendar"><small id="dock-month">OCT</small><b id="dock-day">23</b><span>Calendar</span></a><div class="dock-separator"></div><button class="dock-app dock-settings open-settings" aria-label="Customize start page"><svg class="icon"><use href="#i-settings"/></svg><span>Customize</span></button></nav>
+
+  <dialog id="favorite-dialog" class="favorite-dialog"><form id="favorite-form"><div class="dialog-heading"><div><p class="eyebrow">MAKE IT YOURS</p><h2 id="favorite-dialog-title">Add a favorite</h2></div><button type="button" class="icon-button close-dialog" aria-label="Close"><svg class="icon"><use href="#i-x"/></svg></button></div><label for="favorite-name">Name</label><input id="favorite-name" maxlength="30" placeholder="A favorite corner of the web" required><label for="favorite-url">Website</label><input id="favorite-url" type="text" inputmode="url" placeholder="example.com" required><label for="favorite-color">Icon color</label><select id="favorite-color"><option value="blue">Ocean blue</option><option value="violet">Soft violet</option><option value="rose">Warm rose</option><option value="mint">Fresh mint</option><option value="orange">Sunset orange</option><option value="slate">Slate</option></select><p class="form-error" id="favorite-error" role="alert"></p><div class="dialog-actions"><button type="button" id="remove-favorite" class="danger-button" hidden>Remove</button><button type="button" class="secondary-button close-dialog">Cancel</button><button type="submit" class="primary-button">Save favorite</button></div></form></dialog>
+
+  <dialog id="settings-dialog" class="settings-dialog"><div class="dialog-heading"><div><p class="eyebrow">A SPACE THAT FEELS LIKE YOU</p><h2>Customize start page</h2></div><button class="icon-button close-dialog" aria-label="Close customization"><svg class="icon"><use href="#i-x"/></svg></button></div><div class="settings-toggles"><label><span>Favorites</span><input type="checkbox" data-setting="showFavorites" checked></label><label><span>Privacy note</span><input type="checkbox" data-setting="showPrivacy" checked></label><label><span>Inspiration</span><input type="checkbox" data-setting="showInspiration" checked></label><label><span>Quick-launch dock</span><input type="checkbox" data-setting="showDock" checked></label><label><span>Reduce motion</span><input type="checkbox" data-setting="reduceMotion"></label></div><label class="setting-label" for="display-name">Your first name <span>(optional)</span></label><input id="display-name" maxlength="24" placeholder="Make yourself at home"><label class="setting-label" for="search-engine">Search with</label><select id="search-engine"><option value="google">Google</option><option value="duckduckgo">DuckDuckGo</option><option value="bing">Bing</option></select><p class="setting-label">Background</p><div class="wallpaper-options"><button class="wallpaper-option sky" data-wallpaper="sky" aria-label="Cloud Nine wallpaper" aria-pressed="true"><span>Cloud Nine</span></button><button class="wallpaper-option coast" data-wallpaper="coast" aria-label="Coastline wallpaper" aria-pressed="false"><span>Coastline</span></button><button class="wallpaper-option dusk" data-wallpaper="dusk" aria-label="Afterglow wallpaper" aria-pressed="false"><span>Afterglow</span></button></div><label class="upload-button" for="wallpaper-upload"><svg class="icon"><use href="#i-plus"/></svg> Choose your own image<input id="wallpaper-upload" type="file" accept="image/png,image/jpeg,image/webp"></label><p class="upload-hint">JPG, PNG or WebP · up to 3 MB · saved locally</p><div class="settings-bottom"><button class="text-button" id="reset-appearance">Reset appearance</button><span id="settings-status" role="status">Saved on this device</span></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

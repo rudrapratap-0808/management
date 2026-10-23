@@ -1,5 +1,7 @@
 # YouTube Glass
 
+> **Also available: [Mac Start](mac-start/README.md)** — a Safari-inspired Chrome New Tab extension. [Download Mac Start ZIP](mac-start.zip?raw=1) · [Preview](docs/mac-start-preview.png)
+
 A Chrome extension that gives desktop YouTube a glassmorphism finish: translucent navigation, frosted menus, soft ambient colors, and rounded video cards.
 
 [Download the extension ZIP](youtube-glass.zip?raw=1)
