@@ -13,3 +13,11 @@ MP3 · 320 kb/s · 48 kHz stereo · 3 minutes 32 seconds.
 Enhanced sub-bass and low-end punch, with loudness normalization and true-peak limiting.
 
 MP3 · 320 kb/s · 48 kHz stereo · 5 minutes 18 seconds.
+
+## Kaali Hoodie
+
+[Download Kaali Hoodie — Bass Boosted](Kaali-Hoodie-Bass-Boosted.mp3?raw=1)
+
+Enhanced sub-bass and low-end punch, with loudness normalization and true-peak limiting.
+
+MP3 · 320 kb/s · 48 kHz stereo · 2 minutes 50 seconds.
