@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en" dark>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>YouTube Glass — local layout fixture</title>
+  <style>
+    * { box-sizing: border-box; }
+    html { background: #0f0f0f; color: #f1f1f1; font: 14px Arial, sans-serif; }
+    html:not([dark]) { background: #fff; color: #0f0f0f; }
+    body { margin: 0; background: var(--yt-spec-base-background, #0f0f0f); color: var(--yt-spec-text-primary, #f1f1f1); }
+    html:not([dark]) body { background: var(--yt-spec-base-background, #fff); color: var(--yt-spec-text-primary, #0f0f0f); }
+    button, input { font: inherit; color: inherit; }
+    button { cursor: pointer; }
+    svg { display: block; }
+    ytd-app, ytd-page-manager, ytd-browse, ytd-rich-grid-renderer, ytd-rich-item-renderer, ytd-rich-grid-media, ytd-thumbnail { display: block; }
+    ytd-masthead { position: fixed; inset: 0 0 auto; height: 66px; z-index: 4; display: flex; align-items: center; gap: 24px; padding: 0 30px 0 25px; background: #0f0f0f; }
+    .menu-icon { width: 22px; height: 22px; flex: none; }
+    .logo { display: flex; align-items: center; gap: 5px; color: var(--yt-spec-text-primary, #f1f1f1); font-size: 22px; font-weight: 700; letter-spacing: -1.4px; }
+    .logo svg { width: 32px; height: 23px; }
+    .logo sup { align-self: flex-start; margin-left: 2px; font-size: 9px; font-weight: normal; letter-spacing: 0; color: #aaa; }
+    ytd-searchbox { display: flex; align-items: center; margin: 0 auto; width: min(49%, 630px); }
+    ytd-searchbox #container { display: flex; align-items: center; border: 1px solid #343434; border-radius: 24px 0 0 24px; width: 100%; height: 40px; padding: 0 20px; background: #121212; }
+    ytd-searchbox input { width: 100%; border: 0; background: none; outline: none; font-size: 16px; }
+    ytd-searchbox input::placeholder { color: #9797a5; }
+    #search-icon-legacy { border: 1px solid #343434; border-left: 0; background: #252525; border-radius: 0 24px 24px 0; height: 40px; padding: 0 22px; }
+    #search-icon-legacy svg { width: 19px; height: 19px; }
+    .header-actions { display: flex; align-items: center; gap: 22px; }
+    .create { display: flex; gap: 8px; align-items: center; border: 0; border-radius: 22px; background: var(--yt-spec-additive-background, #252525); padding: 9px 14px; font-size: 13px; }
+    .create span { font-size: 21px; line-height: 20px; }
+    .notification { width: 20px; height: 22px; }
+    .avatar { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 50%; background: #ab8eab; color: #fff; font-size: 14px; }
+    ytd-guide-renderer { display: block; position: fixed; left: 0; top: 66px; bottom: 0; width: 224px; padding: 15px 12px; background: #0f0f0f; }
+    ytd-guide-entry-renderer { display: block; }
+    ytd-guide-entry-renderer #endpoint { display: flex; align-items: center; gap: 24px; min-height: 42px; padding: 0 14px; color: inherit; text-decoration: none; }
+    ytd-guide-entry-renderer[active] #endpoint { background: #272727; font-weight: 600; }
+    .nav-icon { display: grid; place-items: center; width: 22px; font-size: 20px; line-height: 22px; }
+    .nav-icon svg { width: 22px; height: 22px; }
+    .divider { height: 1px; background: var(--yt-spec-outline, #303030); margin: 13px 0; }
+    .nav-label { margin: 18px 14px 9px; font-size: 15px; font-weight: 600; }
+    .sub-dot { display: grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; background: #9d7ba7; color: #fff; font-size: 10px; }
+    .sub-dot.blue { background: #4b7f94; }.sub-dot.gold { background: #aa8c5c; }
+    .guide-footer { margin: 24px 14px; max-width: 150px; font-size: 11px; line-height: 1.7; color: #888a9b; }
+    ytd-page-manager { margin-left: 224px; padding-top: 66px; min-height: 100vh; }
+    ytd-feed-filter-chip-bar-renderer { display: flex; position: sticky; top: 66px; z-index: 3; align-items: center; gap: 11px; padding: 16px 30px; background: #0f0f0f; }
+    yt-chip-cloud-chip-renderer { display: block; padding: 8px 13px; border-radius: 8px; background: #272727; color: #eee; font-size: 13px; white-space: nowrap; }
+    yt-chip-cloud-chip-renderer[selected] { color: #111; background: #f1f1f1; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 28px 22px; padding: 20px 30px 36px; }
+    ytd-rich-grid-media { min-width: 0; background: transparent; }
+    ytd-thumbnail { position: relative; aspect-ratio: 16/9; overflow: hidden; border-radius: 12px; }
+    .thumbnail { position: absolute; inset: 0; overflow: hidden; }
+    .duration { position: absolute; right: 8px; bottom: 8px; z-index: 2; color: #fff; font-size: 11px; font-weight: 600; padding: 3px 5px; border-radius: 4px; background: #000b; }
+    #details { display: flex; align-items: flex-start; gap: 11px; padding: 14px 4px 0; }
+    .channel-avatar { display: grid; place-items: center; flex: none; width: 32px; height: 32px; margin-top: 1px; border-radius: 50%; background: #4a465a; color: #ece8f4; font-size: 10px; font-weight: bold; }
+    .metadata { flex: 1; min-width: 0; }
+    .metadata h2 { margin: 0 0 7px; font-size: 14px; line-height: 1.45; font-weight: 600; letter-spacing: -.1px; }
+    .metadata p { margin: 3px 0; font-size: 11px; line-height: 1.4; color: var(--yt-spec-text-secondary, #aaa); }
+    .more { font-size: 22px; line-height: 24px; }
+    .art-label { position: absolute; z-index: 2; color: #fff; }
+    .mountains { background: linear-gradient(170deg,#c4b0c3 0%,#655f88 45%,#252c4e 78%); }
+    .mountains::before { content: ''; position: absolute; width: 140%; height: 80%; bottom: -22%; left: -20%; background: #292c45; transform: rotate(-12deg); clip-path: polygon(0 50%,18% 17%,33% 50%,49% 6%,65% 42%,75% 22%,100% 45%,100% 100%,0 100%); }
+    .mountains::after { content: ''; position: absolute; width: 70px; height: 70px; right: 25px; top: 18px; border: 1px solid #fff4; border-radius: 50%; box-shadow: 0 0 0 12px #fff08,0 0 0 24px #fff04; }
+    .mountains .art-label { left: 23px; top: 26px; letter-spacing: 4px; font-size: 11px; line-height: 2.1; }
+    .mountains .art-label strong { display: block; font-size: 29px; line-height: 1; letter-spacing: 1px; }
+    .desk { background: linear-gradient(125deg,#b09b88,#3e4346 75%); }
+    .desk::before { content: ''; position: absolute; width: 160px; height: 98px; left: 26%; top: 20px; border: 7px solid #222a30; border-bottom-width: 12px; border-radius: 6px; background: radial-gradient(ellipse at 50% 100%,#c4b8a3,transparent 65%),linear-gradient(135deg,#5f536f,#303a50); transform: perspective(300px) rotateY(-10deg); box-shadow: 25px 25px 50px #0c152666; }
+    .desk::after { content: ''; position: absolute; height: 6px; width: 200px; left: 20%; bottom: 30px; border-radius: 50%; background: #cebaa1; box-shadow: 0 10px 20px #0e141faa; transform: rotate(-2deg); }
+    .desk .art-label { left: 17px; bottom: 14px; font-size: 9px; letter-spacing: 3px; }
+    .ambient { background: radial-gradient(ellipse at 66% 80%,#995c78,transparent 60%),linear-gradient(150deg,#27364b,#39445b 48%,#756a81); }
+    .ambient::before { content: ''; position: absolute; width: 220px; height: 220px; border: 1px solid #dcc9e17a; border-radius: 50%; right: -20px; top: -60px; box-shadow: 0 0 0 18px #dcc9e111,0 0 0 36px #dcc9e109; }
+    .ambient .art-label { left: 25px; bottom: 29px; letter-spacing: 1px; font-size: 11px; }
+    .ambient .art-label strong { display: block; font-size: 37px; letter-spacing: -2px; line-height: 1.3; font-weight: 400; }
+    .architecture { background: linear-gradient(110deg,#c2baa7,#8b927f); }
+    .architecture::before { content: ''; position: absolute; width: 160px; height: 190px; border-radius: 75px 75px 0 0; left: 32%; top: 22px; background: linear-gradient(90deg,#4c5a57,#9aa58b); box-shadow: -12px 0 0 #e0d6be, -30px 0 0 #b6ac99,20px 0 0 #dad0b9; }
+    .architecture::after { content: ''; position: absolute; width: 90px; height: 140px; border-radius: 50px 50px 0 0; left: 43%; top: 65px; background: #304640; }
+    .architecture .art-label { top: 20px; left: 18px; font-size: 9px; letter-spacing: 3px; color: #27392f; }
+    .code { background: linear-gradient(120deg,#1e2636,#373049); }
+    .code::before { content: ''; position: absolute; inset: 25px 30px; border: 1px solid #a997e044; border-radius: 9px; background: linear-gradient(#31344c 0 16px,#1b2034 16px); box-shadow: 0 20px 40px #0004; transform: rotate(-4deg); }
+    .code .art-label { left: 55px; top: 56px; color: #b7a2e3; font: 12px/1.8 monospace; }
+    .code .art-label strong { color: #8cc7b0; font-weight: normal; }
+    .coast { background: linear-gradient(#c2d5d5 0%,#8cabae 50%,#3e737a 51%,#1b4b57 75%); }
+    .coast::before { content: ''; position: absolute; width: 100%; height: 70px; bottom: -10px; right: -20%; background: #b2af93; border-radius: 90% 0 0; transform: rotate(-16deg); box-shadow: -5px -5px 0 #d9dbca; }
+    .coast .art-label { left: 20px; top: 26px; font-size: 30px; letter-spacing: -1px; font-weight: 600; line-height: .95; color: #eef8f5; }
+    .coast .art-label small { display: block; font-size: 8px; letter-spacing: 4px; margin-bottom: 9px; font-weight: normal; }
+    .fixture-note { position: fixed; right: 20px; bottom: 14px; z-index: 5; padding: 7px 10px; border: 1px solid #9396ac26; border-radius: 20px; background: #151725d9; color: #a3a7c0; font-size: 9px; letter-spacing: .5px; }
+    @media (max-width: 1000px) { .grid { grid-template-columns: repeat(2, minmax(0,1fr)); } ytd-guide-renderer { width: 180px; } ytd-page-manager { margin-left: 180px; } }
+  </style>
+</head>
+<body>
+<ytd-app>
+  <ytd-masthead>
+    <svg class="menu-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    <div class="logo"><svg viewBox="0 0 32 23"><rect y="1" width="32" height="21" rx="6" fill="#ff454d"/><path d="m13 6 9 5.5-9 5.5Z" fill="white"/></svg>YouTube<sup>IN</sup></div>
+    <ytd-searchbox><div id="container"><input placeholder="Search" aria-label="Search"></div><button id="search-icon-legacy" aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="10.5" cy="10.5" r="7.5"/><path d="m16 16 5 5"/></svg></button></ytd-searchbox>
+    <div class="header-actions"><button class="create"><span>+</span> Create</button><svg class="notification" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M5 16V10a7 7 0 0 1 14 0v6l2 3H3l2-3ZM9 22h6"/></svg><div class="avatar">A</div></div>
+  </ytd-masthead>
+  <ytd-guide-renderer>
+    <div id="sections">
+      <ytd-guide-entry-renderer active><a id="endpoint" href="#"><span class="nav-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="m3 10 9-8 9 8v11h-6v-8H9v8H3Z"/></svg></span>Home</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">ϟ</span>Shorts</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">▣</span>Subscriptions</a></ytd-guide-entry-renderer>
+      <div class="divider"></div><div class="nav-label">You <span style="margin-left:5px">›</span></div>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">◴</span>History</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">☷</span>Playlists</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">◷</span>Watch later</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">♡</span>Liked videos</a></ytd-guide-entry-renderer>
+      <div class="divider"></div><div class="nav-label">Subscriptions</div>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="sub-dot">F</span>Field Notes</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="sub-dot blue">NS</span>North Studio</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="sub-dot gold">AM</span>Analog Mood</a></ytd-guide-entry-renderer>
+      <div class="divider"></div><div class="nav-label">Explore</div>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">♫</span>Music</a></ytd-guide-entry-renderer>
+      <ytd-guide-entry-renderer><a id="endpoint" href="#"><span class="nav-icon">◎</span>Gaming</a></ytd-guide-entry-renderer>
+      <p class="guide-footer">About &nbsp; Press &nbsp; Copyright<br>Contact us &nbsp; Creators<br><br>© 2026 · Preview content</p>
+    </div>
+  </ytd-guide-renderer>
+  <ytd-page-manager><ytd-browse><ytd-rich-grid-renderer>
+    <ytd-feed-filter-chip-bar-renderer><yt-chip-cloud-chip-renderer selected><span>All</span></yt-chip-cloud-chip-renderer><yt-chip-cloud-chip-renderer>Music</yt-chip-cloud-chip-renderer><yt-chip-cloud-chip-renderer>Design</yt-chip-cloud-chip-renderer><yt-chip-cloud-chip-renderer>Technology</yt-chip-cloud-chip-renderer><yt-chip-cloud-chip-renderer>Ambient</yt-chip-cloud-chip-renderer><yt-chip-cloud-chip-renderer>Architecture</yt-chip-cloud-chip-renderer><yt-chip-cloud-chip-renderer>Travel</yt-chip-cloud-chip-renderer><yt-chip-cloud-chip-renderer>Recently uploaded</yt-chip-cloud-chip-renderer></ytd-feed-filter-chip-bar-renderer>
+    <div class="grid">
+      <ytd-rich-item-renderer><ytd-rich-grid-media><ytd-thumbnail><div class="thumbnail mountains"><div class="art-label">FIND YOUR<strong>STILLNESS</strong></div></div><span class="duration">18:42</span></ytd-thumbnail><div id="details"><div class="channel-avatar">F</div><div class="metadata"><h2>A quiet place in the mountains | A cinematic escape</h2><p>Field Notes ✓</p><p>248K views · 3 days ago</p></div><span class="more">⋮</span></div></ytd-rich-grid-media></ytd-rich-item-renderer>
+      <ytd-rich-item-renderer><ytd-rich-grid-media><ytd-thumbnail><div class="thumbnail desk"><div class="art-label">A SPACE TO MAKE THINGS.</div></div><span class="duration">12:08</span></ytd-thumbnail><div id="details"><div class="channel-avatar">NS</div><div class="metadata"><h2>My minimal desk setup — a space for better ideas</h2><p>North Studio</p><p>82K views · 1 week ago</p></div><span class="more">⋮</span></div></ytd-rich-grid-media></ytd-rich-item-renderer>
+      <ytd-rich-item-renderer><ytd-rich-grid-media><ytd-thumbnail><div class="thumbnail ambient"><div class="art-label">MUSIC FOR SLOWER MOMENTS<strong>after hours.</strong></div></div><span class="duration">1:02:18</span></ytd-thumbnail><div id="details"><div class="channel-avatar">AM</div><div class="metadata"><h2>After hours · an ambient mix for your evening</h2><p>Analog Mood</p><p>1.2M views · 2 weeks ago</p></div><span class="more">⋮</span></div></ytd-rich-grid-media></ytd-rich-item-renderer>
+      <ytd-rich-item-renderer><ytd-rich-grid-media><ytd-thumbnail><div class="thumbnail architecture"><div class="art-label">SPACES THAT BREATHE</div></div><span class="duration">24:36</span></ytd-thumbnail><div id="details"><div class="channel-avatar">S</div><div class="metadata"><h2>Inside a home designed around light and nature</h2><p>Spaces</p><p>412K views · 5 days ago</p></div><span class="more">⋮</span></div></ytd-rich-grid-media></ytd-rich-item-renderer>
+      <ytd-rich-item-renderer><ytd-rich-grid-media><ytd-thumbnail><div class="thumbnail code"><div class="art-label">const ideas = <strong>makeSomething();</strong><br><strong>↳</strong> design. build. repeat.</div></div><span class="duration">16:54</span></ytd-thumbnail><div id="details"><div class="channel-avatar">UI</div><div class="metadata"><h2>Small UI details that make a big difference</h2><p>Interface Journal</p><p>64K views · 2 days ago</p></div><span class="more">⋮</span></div></ytd-rich-grid-media></ytd-rich-item-renderer>
+      <ytd-rich-item-renderer><ytd-rich-grid-media><ytd-thumbnail><div class="thumbnail coast"><div class="art-label"><small>A WEEKEND AWAY</small>the<br>slow coast.</div></div><span class="duration">21:17</span></ytd-thumbnail><div id="details"><div class="channel-avatar">F</div><div class="metadata"><h2>Taking the long way home — a coastal road trip</h2><p>Field Notes ✓</p><p>138K views · 6 days ago</p></div><span class="more">⋮</span></div></ytd-rich-grid-media></ytd-rich-item-renderer>
+    </div>
+  </ytd-rich-grid-renderer></ytd-browse></ytd-page-manager>
+</ytd-app>
+<div class="fixture-note">LOCAL PREVIEW · DEMONSTRATION LAYOUT</div>
+</body>
+</html>
