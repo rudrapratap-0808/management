@@ -1,5 +1,7 @@
 # Audio
 
+> **Romantic Lofi Mashup — 03:00:** [Full MP3](Romantic-Lofi-Mashup-3-Minute.mp3?raw=1) · [WAV](Romantic-Lofi-Mashup-3-Minute.wav?raw=1) · [Transition preview](Romantic-Lofi-Mashup-Preview.mp3?raw=1)
+
 > **High Tide — original instrumental, no vocals:** [Preview](High-Tide-Original-Instrumental-Preview.mp3?raw=1) · [MP3](High-Tide-Original-Instrumental.mp3?raw=1) · [WAV](High-Tide-Original-Instrumental.wav?raw=1)
 
 > **Revised rap edit (v2):** [40-second preview](Rudra-52-Bars-Rap-Rework-v2-Preview.mp3?raw=1) · [Full MP3](Rudra-52-Bars-Rap-Rework-v2.mp3?raw=1) · [24-bit WAV](Rudra-52-Bars-Rap-Rework-v2.wav?raw=1)
@@ -73,3 +75,14 @@ Original vocal-free composition with new melody, chord voicings, tuned sub-bass,
 - [Full instrumental — 24-bit WAV](High-Tide-Original-Instrumental.wav?raw=1)
 
 82 BPM · C# minor · 2 minutes 58 seconds · stereo, 44.1 kHz. Composed and rendered locally.
+
+## Romantic Lofi Mashup — 03:00
+
+Achhi Lagti Ho × Aankhon Mein Teri × Tum Se Hi, edited from the supplied recordings into the requested seven-section timeline. Includes a piano motif, warm accompaniment, soft lofi drums, vocal echoes, vinyl texture, rain ambience, and a drum-free piano/reverb outro.
+
+- [Full MP3 — 320 kb/s, with section chapter markers](Romantic-Lofi-Mashup-3-Minute.mp3?raw=1)
+- [Full WAV — 24-bit](Romantic-Lofi-Mashup-3-Minute.wav?raw=1)
+- [70-second transition preview](Romantic-Lofi-Mashup-Preview.mp3?raw=1)
+- [Arrangement and settings](Romantic-Lofi-Mashup-Arrangement.txt)
+
+Exactly 3 minutes of decoded audio · 65 BPM half-time · stereo, 44.1 kHz. The suggested 76 BPM starting point was adjusted to limit vocal speed changes. Main vocal pitch was preserved. The optional Tum Se Hi motif was omitted from the Achhi reprise to avoid a key clash. Faint source-separation artifacts may remain.

@@ -1,0 +1,17 @@
+ROMANTIC LOFI MASHUP — 03:00
+
+Tempo: 65 BPM half-time. The suggested 76 BPM was adjusted to limit vocal speed changes.
+Main sung pitches: retained.
+Vocal reverb: 30% wet mix.
+Vinyl texture control: 12%.
+
+00:00–00:15  Lofi intro
+00:15–00:50  Achhi Lagti Ho hook
+00:50–01:05  Echo and instrumental transition
+01:05–01:35  Aankhon Mein Teri chorus
+01:35–02:10  Tum Se Hi chorus
+02:10–02:35  Achhi Lagti Ho reprise
+02:35–03:00  Piano, motif, rain and reverb outro
+
+The optional Tum Se Hi motif was omitted from the Achhi reprise because the keys conflict.
+Faint source-separation artifacts may remain.
