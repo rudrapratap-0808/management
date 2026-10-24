@@ -1,5 +1,7 @@
 # Audio
 
+> **Revised rap edit (v2):** [40-second preview](Rudra-52-Bars-Rap-Rework-v2-Preview.mp3?raw=1) · [Full MP3](Rudra-52-Bars-Rap-Rework-v2.mp3?raw=1) · [24-bit WAV](Rudra-52-Bars-Rap-Rework-v2.wav?raw=1)
+
 [Download Celebrity Killer — Bass Boosted](Celebrity-Killer-Bass-Boosted.mp3?raw=1)
 
 Enhanced sub-bass and low-end punch, with loudness normalization and true-peak limiting.
@@ -47,3 +49,15 @@ User-provided vocals mixed with the extracted 52 Bars instrumental, including be
 - [40-second preview — MP3](Rudra-New-Song-52-Bars-Mix-Preview.mp3?raw=1)
 
 Duration: 2 minutes 53 seconds. Stereo, 44.1 kHz.
+
+## Rudra — 52 Bars Rap Rework v2
+
+Reconstructed vocal timing inside each line, aligned bar entries, scale-shaped rhyme endings, a repeated melodic hook, hook doubles, and a stronger beat balance. The backing was extracted from the supplied 52 Bars recording.
+
+- [Verse and hook preview — 40 seconds](Rudra-52-Bars-Rap-Rework-v2-Preview.mp3?raw=1)
+- [Full MP3 — 320 kb/s](Rudra-52-Bars-Rap-Rework-v2.mp3?raw=1)
+- [Full WAV — 24-bit](Rudra-52-Bars-Rap-Rework-v2.wav?raw=1)
+
+Duration: 2 minutes 47 seconds. Stereo, 44.1 kHz.
+
+This is an edited rap-style reconstruction of a spoken vocal recording, with a processed melodic hook. It is not a newly sung performance. Instrumental separation artifacts may remain.
