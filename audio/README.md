@@ -1,5 +1,7 @@
 # Audio
 
+> **High Tide — original instrumental, no vocals:** [Preview](High-Tide-Original-Instrumental-Preview.mp3?raw=1) · [MP3](High-Tide-Original-Instrumental.mp3?raw=1) · [WAV](High-Tide-Original-Instrumental.wav?raw=1)
+
 > **Revised rap edit (v2):** [40-second preview](Rudra-52-Bars-Rap-Rework-v2-Preview.mp3?raw=1) · [Full MP3](Rudra-52-Bars-Rap-Rework-v2.mp3?raw=1) · [24-bit WAV](Rudra-52-Bars-Rap-Rework-v2.wav?raw=1)
 
 [Download Celebrity Killer — Bass Boosted](Celebrity-Killer-Bass-Boosted.mp3?raw=1)
@@ -61,3 +63,13 @@ Reconstructed vocal timing inside each line, aligned bar entries, scale-shaped r
 Duration: 2 minutes 47 seconds. Stereo, 44.1 kHz.
 
 This is an edited rap-style reconstruction of a spoken vocal recording, with a processed melodic hook. It is not a newly sung performance. Instrumental separation artifacts may remain.
+
+## High Tide — Original Punjabi Hip-Hop Instrumental
+
+Original vocal-free composition with new melody, chord voicings, tuned sub-bass, drums, electric piano, plucked guitar, strings, and melodic accents. Includes intro, hooks, verses, breakdown, and outro. No audio from the reference recording or any vocal recording was used.
+
+- [40-second preview — MP3](High-Tide-Original-Instrumental-Preview.mp3?raw=1)
+- [Full instrumental — MP3, 320 kb/s](High-Tide-Original-Instrumental.mp3?raw=1)
+- [Full instrumental — 24-bit WAV](High-Tide-Original-Instrumental.wav?raw=1)
+
+82 BPM · C# minor · 2 minutes 58 seconds · stereo, 44.1 kHz. Composed and rendered locally.
