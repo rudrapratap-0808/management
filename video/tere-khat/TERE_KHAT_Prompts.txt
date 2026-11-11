@@ -1,0 +1,584 @@
+==============================================================================
+TERE KHAT  -  Rudra_iy  -  Album: BAS TU
+Cinematic animated music video: complete prompt pack
+==============================================================================
+Audio length: 4:09.88 (timings taken from the uploaded MP3, accurate to about +/-1 s; snap cuts to the beat, about 82 BPM).
+Story: Aarav finds Meera's old letters; each letter opens a watercolor memory. They drift apart; her last letter says
+"Khush rehna mere bina". He decides to put the letters away for good, but a hidden, never-opened letter falls out
+of the old book, and he becomes hers again.
+
+HOW TO USE WITH CHATGPT (Plus plan, no API needed)
+1. Open ONE new chat and keep every image in that same chat.
+2. Paste the two CHARACTER SHEET prompts first and keep the results.
+3. For each scene, paste the IMAGE PROMPT. If a face drifts, reply: "Same Aarav and Meera as the character
+   sheets above, keep faces, hair and clothes identical."
+4. Save each image as its scene ID (S01.png, S02.png, ...).
+5. Optional: put an image into a video tool (Sora, etc.) with its VIDEO PROMPT.
+6. Upload the images or clips, and they get edited to the song with these exact timestamps.
+
+Present-day scenes = cooler, dimmer amber. Memory scenes = full warm golden light.
+
+==============================================================================
+GLOBAL STYLE (already included in every prompt below)
+==============================================================================
+Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame.
+
+Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+==============================================================================
+CHARACTER REFERENCES
+==============================================================================
+Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression.
+
+Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta.
+
+Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile.
+
+==============================================================================
+CHARACTER SHEET PROMPTS (generate these first)
+==============================================================================
+[CS1 - AARAV]
+Character reference sheet on a plain cream paper background: the same young man shown front view, three-quarter view and side profile, plus two facial expressions (gentle smile, sad). Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+[CS2 - MEERA]
+Character reference sheet on a plain cream paper background: the same young woman shown front view, three-quarter view and side profile, plus two facial expressions (laughing, tender). Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+==============================================================================
+SONG STRUCTURE
+==============================================================================
+  0:00-0:27      Intro (sung over soft piano)
+  0:28-0:53      Verse 1
+  0:53-1:05      Pre-chorus
+  1:05-1:44      Chorus 1 + 'Tere khat' tag
+  1:44-1:54      Instrumental break
+  1:54-2:21      Verse 2
+  2:21-2:46      Bridge (near-silence 2:40-2:46)
+  2:47-3:25      Final chorus (loudest)
+  3:26-3:56      Whispered outro
+  3:56-4:06      Instrumental swell
+  4:06-4:09.88   Fade to silence
+
+==============================================================================
+SCENE-BY-SCENE STORYBOARD AND PROMPTS
+==============================================================================
+
+------------------------------------------------------------------------------
+S01   |   0:00 - 0:08
+------------------------------------------------------------------------------
+LYRIC / SECTION: Intro: "Aaj phir khole maine, woh purane se khat"
+VISUAL: Late afternoon. Old teak desk by a lattice window. Fountain pen, inkpot, dried marigolds, a dented tin box of tied letters. Aarav slowly opens a yellowed envelope.
+CAMERA: Wide over-shoulder, slow dolly-in to his hands.
+TRANSITION: Match-cut on the envelope.
+
+IMAGE PROMPT (copy everything below):
+An old teak wooden desk beside a lattice window, a warm sunbeam full of floating dust, a fountain pen, an inkpot, dried marigold flowers and an open dented tin box full of letters tied with string. Aarav, seen over his shoulder, gently opens an aged yellowed envelope. Quiet, nostalgic. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow dolly-in from an over-the-shoulder wide shot to a close-up of his hands opening the envelope. Dust drifts through the sunbeam, the curtain sways softly. 8 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S02   |   0:08 - 0:14
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Kuch sookhe hue phool, kuch adhure jazbaat"
+VISUAL: Pressed orange gulmohar petals slide out of the envelope onto the parchment.
+CAMERA: Macro top-down, slow rotation.
+TRANSITION: Slow dissolve.
+
+IMAGE PROMPT (copy everything below):
+Macro top-down view of dried pressed orange gulmohar petals sliding out of an old envelope onto a handwritten letter in faded sepia ink, visible paper grain. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Petals drift down in slow motion onto the letter while the camera slowly rotates. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S03   |   0:14 - 0:20
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Teri likhi hui baatein, ab bhi zinda hain"
+VISUAL: Her handwriting glows faintly golden, as if the ink is alive.
+CAMERA: Slow tracking along the written lines.
+TRANSITION: Dissolve.
+
+IMAGE PROMPT (copy everything below):
+Extreme close-up of elegant feminine handwriting in faded brown ink on cream paper, the letters faintly glowing golden as if alive. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Camera glides along the written lines; the ink shimmers softly word by word. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S04   |   0:20 - 0:28
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Bas tu hi nahi hai, jo kabhi kehti thi saath"
+VISUAL: He looks up at the empty chair across the desk. A translucent watercolor Meera appears in it, smiles, and dissolves into golden light.
+CAMERA: Rack focus from him to the chair.
+TRANSITION: Cut on the verse downbeat at 0:28.
+
+IMAGE PROMPT (copy everything below):
+Aarav sitting at the desk looking at an empty wooden chair opposite him; a faint translucent watercolor image of Meera sits in the chair smiling softly, warm sunlight. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Rack focus to the chair; her translucent figure fades in, smiles, then dissolves into golden dust. He lowers his eyes. 8 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S05   |   0:28 - 0:34
+------------------------------------------------------------------------------
+LYRIC / SECTION: Verse 1: "Almari ke kone mein, ek kitaab rakhi hai..."
+VISUAL: He opens an old almirah and takes down a worn poetry book stuffed with letters.
+CAMERA: Medium shot, slow pan following his hand.
+TRANSITION: Cut.
+
+IMAGE PROMPT (copy everything below):
+Aarav opening an old wooden almirah in a dim warm room and pulling out a worn cloth-bound poetry book with many old letters sticking out of its pages. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Pan follows his hand to the book; a few letters slip slightly. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S06   |   0:34 - 0:40
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Woh pehla sa khat tera... 'Tu kitna pyaara hai'"
+VISUAL: The first letter. The line spreads outward into watercolor, which becomes the memory.
+CAMERA: Push-in until the ink fills the frame.
+TRANSITION: The ink bloom wipes into the memory.
+
+IMAGE PROMPT (copy everything below):
+Close-up of a handwritten line on old paper with the ink bleeding outward into soft watercolor washes that form a sunlit old college library. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Push-in; the ink spreads like water and becomes a painted library scene. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S07   |   0:40 - 0:46
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Kuch lafz mit gaye... jo keh na sake hum, woh khat keh gaye"
+VISUAL: First meeting in a college library. Their books fall; Meera hands back his book with a folded note inside. He is speechless; she laughs softly.
+CAMERA: Gentle tracking, then close-ups from each side.
+TRANSITION: Dissolve.
+
+IMAGE PROMPT (copy everything below):
+A sunlit old library with tall wooden shelves and golden light shafts. Meera hands a book with a folded note tucked inside to a shy Aarav; a few books lie on the floor between them. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow tracking shot; she smiles and offers the book, he hesitates then takes it; dust floats in the light. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S08   |   0:46 - 0:53
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Teri handwriting mein ek sukoon... tu door thi magar dil ke kareeb"
+VISUAL: Their first walk together beside a lake under a huge peepal tree, golden leaves falling.
+CAMERA: Wide establishing shot, slow lateral track.
+TRANSITION: Dissolve to night.
+
+IMAGE PROMPT (copy everything below):
+Wide shot of a calm lake at sunset with a huge peepal tree covered in golden autumn leaves. Aarav and Meera walk side by side along the bank, a small shy distance apart. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Lateral tracking shot; leaves fall in slow motion, water shimmers, her dupatta moves in the breeze. 7 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S09   |   0:53 - 1:05
+------------------------------------------------------------------------------
+LYRIC / SECTION: Pre-chorus: "Ab na koi paighaam hai... kya tujhe bhi yaad aata hai..."
+VISUAL: Present day, at night. Aarav at his window with a lantern. On "Kya tujhe bhi yaad aata hai" (1:02) the frame becomes two panels: Meera at a distant window under the same moon.
+CAMERA: Slow dolly-out, then split into two panels.
+TRANSITION: Soft white flash into the chorus.
+
+IMAGE PROMPT (copy everything below):
+Night scene painted as a diptych: on the left Aarav at an open window holding a lantern and old letters, a full moon; on the right Meera at a distant window under the same moon, both looking up. Muted amber and deep brown. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow dolly-out, lantern flickers, the frame gently splits into two windows. 6 seconds, used twice. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S10a   |   1:05 - 1:11
+------------------------------------------------------------------------------
+LYRIC / SECTION: Chorus: "Tere khat aaj bhi mere paas hain"
+VISUAL: On a wooden jetty at sunset, Meera writes a letter on her knee while Aarav watches her tenderly.
+CAMERA: Gentle orbit.
+TRANSITION: Dissolve.
+
+IMAGE PROMPT (copy everything below):
+A wooden jetty over a golden lake at sunset. Meera sits writing a letter on her knee; Aarav sits beside her watching her tenderly; low sun, a few birds in the sky. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Gentle orbit around the couple, water ripples, her hair moves in the breeze. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S10b   |   1:11 - 1:17
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Inmein chhupe kuch adhoore ehsaas hain"
+VISUAL: Shared laughter; she flicks lake water at him and he laughs.
+CAMERA: Close two-shot, handheld feel.
+TRANSITION: Hard cut to cold flash.
+
+IMAGE PROMPT (copy everything below):
+Close two-shot at the lake edge in golden light: Meera laughing as she flicks water at Aarav, who laughs and shields his face; droplets sparkle like gold. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Water droplets arc in slow motion, both laugh, warm light flickers on the water. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S10c   |   1:17 - 1:23
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Tu toh chali gayi, mud ke dekha bhi nahi"
+VISUAL: A colder flash-forward: Meera walks away down a long tree-lined road and never turns back. Leaves blow toward the camera.
+CAMERA: Static wide.
+TRANSITION: Hard cut back to warm memory.
+
+IMAGE PROMPT (copy everything below):
+A long tree-lined country road in desaturated cold amber. Meera walks away from the camera, back turned, small in the distance; dry leaves blow toward the viewer. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Static wide shot; she keeps walking away without turning; leaves blow toward the lens. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S10d   |   1:23 - 1:30
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Par tere lafzon mein hum aaj bhi khaas hain"
+VISUAL: Back in warm memory: Meera secretly tucks a sealed envelope into his poetry book while he isn't looking. (This sets up the ending.)
+CAMERA: Close-up on her hands, then her small smile.
+TRANSITION: Dissolve to present.
+
+IMAGE PROMPT (copy everything below):
+Warm golden afternoon under the peepal tree: Meera secretly slipping a sealed envelope into the pages of a cloth-bound poetry book while Aarav looks away at the lake; a small secret smile on her face. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Close-up on her hands sliding the envelope in, then tilt up to her smile. 7 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S11   |   1:30 - 1:44
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Tere khat... tere khat... mere paas bas tere hi khat hain"
+VISUAL: Present day: Aarav sits on the floor surrounded by open letters in lamplight.
+CAMERA: Top-down crane rising slowly.
+TRANSITION: Fade into the instrumental.
+
+IMAGE PROMPT (copy everything below):
+Top-down view of Aarav sitting on a wooden floor surrounded by dozens of open handwritten letters, lit by a single warm lamp; deep amber shadows. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow crane upward; the lamp glow pulses softly. 7 seconds, used twice. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S12   |   1:44 - 1:54
+------------------------------------------------------------------------------
+LYRIC / SECTION: INSTRUMENTAL BREAK (time passing)
+VISUAL: No characters. The lakeside peepal tree goes from golden to bare to grey; rain begins on the lake.
+CAMERA: Locked-off, time-lapse.
+TRANSITION: Raindrop wipe into Verse 2.
+
+IMAGE PROMPT (copy everything below):
+The same huge peepal tree by the lake with an empty wooden bench, autumn turning to grey rainy season, half the leaves gone, first raindrops on the water, muted sepia-grey. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Time-lapse: leaves fall away, the sky greys, first raindrops ripple the lake. 10 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S13   |   1:54 - 2:01
+------------------------------------------------------------------------------
+LYRIC / SECTION: Verse 2: "Ek khat mein likha tha 'Kabhi chhodna nahi'"
+VISUAL: In memory, under the tree, Meera ties a red thread on Aarav's wrist and makes him promise.
+CAMERA: Close two-shot, slow push.
+TRANSITION: Cut.
+
+IMAGE PROMPT (copy everything below):
+Under the peepal tree in soft golden light, Meera tying a red thread on Aarav's wrist, both looking at each other with serious tender eyes. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow push-in on their hands, then to her eyes. 7 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S14   |   2:01 - 2:07
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Kya waqt badal gaya... ek hi shehar mein ajnabi hue hum"
+VISUAL: On a crowded rainy street they walk on opposite pavements without noticing each other. A bus passes between them; after it, she is gone.
+CAMERA: Slow lateral pan.
+TRANSITION: Cut to warm memory.
+
+IMAGE PROMPT (copy everything below):
+A rainy old Indian city street with weathered buildings in muted sepia. Aarav and Meera walk on opposite pavements under separate umbrellas, not noticing each other; an old bus between them. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow lateral pan; the bus wipes across the frame; when it passes she is gone. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S15   |   2:07 - 2:13
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Woh baarish ki raatein, woh chai ki dukaan"
+VISUAL: Warm memory: a roadside chai stall at night in the rain. They share one umbrella and clay kulhads of chai, laughing.
+CAMERA: Slow dolly-in.
+TRANSITION: Match-cut to the same stall, present day.
+
+IMAGE PROMPT (copy everything below):
+A roadside chai stall at night with a glowing lantern, rain falling. Aarav and Meera share one umbrella and hold clay kulhad cups, laughing; steam rises. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow dolly-in; steam rises; rain streaks glow in the lantern light. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S16   |   2:13 - 2:21
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Ab baarish bhi hoti hai, par tu nahi aati"
+VISUAL: The same stall in the present. Aarav sits alone with one kulhad; the memory of Meera beside him washes away like wet paint.
+CAMERA: Static medium.
+TRANSITION: Fade to night desk.
+
+IMAGE PROMPT (copy everything below):
+The same roadside chai stall in the rain, cold amber light. Aarav sits alone on the wooden bench holding one clay cup, an empty space beside him. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+A faint watercolor figure beside him dissolves like paint washing away in the rain; he keeps looking at the empty seat. 8 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S17   |   2:21 - 2:34
+------------------------------------------------------------------------------
+LYRIC / SECTION: Bridge: "Kaash ek baar... bas tere khaton ka ek jawaab maangunga"
+VISUAL: Late at night he writes the reply he'll never send, crumples it, tries again, and finally ties the unsent replies with string.
+CAMERA: Medium, slight handheld feel; insert of the bundle.
+TRANSITION: Cut.
+
+IMAGE PROMPT (copy everything below):
+Late night at the wooden desk, lamplight. Aarav writing with a fountain pen, crumpled papers around him, a small stack of unsent letters tied with string beside the inkpot. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+He writes, pauses, crumples the page, writes again; the lamp flickers. 6 seconds, used twice. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S18   |   2:34 - 2:46
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Tune aakhri khat mein likha tha 'Khush rehna mere bina'..."
+VISUAL: He opens the last letter. A tear falls at about 2:40, where the music almost stops, and the ink spreads around it.
+CAMERA: Very slow push on his eyes, then a macro of the tear.
+TRANSITION: Hold on silence, then the final chorus hits.
+
+IMAGE PROMPT (copy everything below):
+Close-up of Aarav silently reading an old letter, tears gathering in his eyes, warm lamplight on one side of his face, darkness on the other. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Extremely slow push-in; a single tear falls onto the paper and the ink blooms softly around it. 12 seconds (two shots). Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S19a   |   2:47 - 2:58
+------------------------------------------------------------------------------
+LYRIC / SECTION: Final chorus: "Tere khat aaj bhi mere paas hain..."
+VISUAL: Fast memory cuts on the beat. Reuse S07, S10a, S15 and S13 with stronger golden light.
+CAMERA: Quick cuts on every 2 beats.
+TRANSITION: Cut.
+
+IMAGE PROMPT: (Reuse images S07, S10a, S15, S13.)
+
+VIDEO PROMPT (image-to-video):
+Quick, slightly brighter versions of earlier shots with flaring golden light. 2-3 seconds each. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S19b   |   2:58 - 3:04
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Tu toh kisi aur ki duniya ban gayi"
+VISUAL: At a Diwali lake ghat filled with floating diyas, Meera in a red-gold saree laughs with blurred figures. Aarav watches from the far bank as the lamps drift between them.
+CAMERA: Slow rack focus across the water.
+TRANSITION: Cut.
+
+IMAGE PROMPT (copy everything below):
+Night lake ghat with hundreds of floating diyas. Meera, now in a red and gold saree, far away laughing with soft blurred figures; Aarav small and alone on the opposite bank in the foreground, watching. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Slow rack focus from her to him across the water; the diyas drift and flicker. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S19c   |   3:04 - 3:11
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Hum aaj bhi wahi, jahan tere saath hain"
+VISUAL: Aarav alone under the now-bare peepal tree, in the same spot as S08.
+CAMERA: Wide, static.
+TRANSITION: Wind picks up.
+
+IMAGE PROMPT (copy everything below):
+Wide shot of the bare peepal tree by the lake at dusk, Aarav standing alone on the exact spot where the couple once walked, his shawl moving in the wind. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Static wide; wind moves his shawl and the last leaves. 7 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S20   |   3:11 - 3:26
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Tere khat... tu laut kar aaye ya na aaye, tere lafz mere saath hain"
+VISUAL: Under the tree, wind lifts the letters around him like birds. He doesn't chase them; he catches one and holds it to his chest.
+CAMERA: Slow 360-degree orbit.
+TRANSITION: Fade to the quiet room.
+
+IMAGE PROMPT (copy everything below):
+Aarav under the peepal tree at dusk, dozens of old letters and golden leaves swirling around him in the wind like birds; he holds one letter to his chest with eyes closed. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Letters and leaves swirl, camera orbits slowly around him; he closes his eyes. 7 seconds, used twice. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S21   |   3:26 - 3:37
+------------------------------------------------------------------------------
+LYRIC / SECTION: Outro (whisper): "Aaj aakhri baar padhunga... rakh dunga kahin... par ek baat bataun"
+VISUAL: At home, he ties the bundle with the red thread and lays it in the tin trunk. The lid closes slowly.
+CAMERA: Static close-up, very quiet.
+TRANSITION: Hold.
+
+IMAGE PROMPT (copy everything below):
+Close-up of Aarav's hands tying a bundle of old letters with a red thread and laying it inside an old tin trunk, soft dim amber light. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Hands tie the thread, lay the bundle down, the trunk lid closes slowly. 10 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S22   |   3:37 - 3:50
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Jis din tujhe bhoolne ka socha tha... tera ek naya khat mil gaya"
+VISUAL: He lifts the poetry book to store it and a sealed, unopened envelope slips out. On it: "Jis din mujhe bhoolna chaho, us din kholna."
+CAMERA: Slow-motion fall to the floor, then a close-up on his stunned face.
+TRANSITION: Cut.
+
+IMAGE PROMPT (copy everything below):
+A sealed yellowed envelope falling from an old cloth-bound book in slow motion, handwriting on its front, sunlight catching it; Aarav frozen in surprise behind it. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+The envelope tumbles in slow motion to the floor, sunlight catches it, then a slow push to his stunned face. 6 seconds, used twice. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S23   |   3:50 - 3:56
+------------------------------------------------------------------------------
+LYRIC / SECTION: "Aur main phir se tera ho gaya"
+VISUAL: He opens it: a pressed heart-shaped peepal leaf from their tree and one line, "Main tumhare khaton mein hamesha rahungi." He smiles through tears.
+CAMERA: Macro of the leaf, then his face.
+TRANSITION: Window opens: the music swells.
+
+IMAGE PROMPT (copy everything below):
+Macro of a pressed heart-shaped peepal leaf resting on a short handwritten note inside an opened envelope, then Aarav's face breaking into a tearful smile, golden light. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Macro of the leaf, cut to his face slowly breaking into a tearful smile. 6 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S24   |   3:56 - 4:06
+------------------------------------------------------------------------------
+LYRIC / SECTION: INSTRUMENTAL SWELL (final image)
+VISUAL: He opens the window; golden leaves pour in, and the ink rises off every letter as glowing script. At the lake at sunset, the words settle onto the bare tree and become golden leaves again. Aarav sits beneath it while a watercolor Meera paints herself in beside him. They sit together, not touching.
+CAMERA: Long crane up to an extreme wide shot.
+TRANSITION: Everything flattens into a painting.
+
+IMAGE PROMPT (copy everything below):
+Extreme wide shot of a golden lake at sunset; a giant peepal tree whose leaves are made of glowing handwritten words. Aarav sits beneath it; a translucent, softly painted Meera sits beside him, not touching. Bittersweet, breathtaking. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+Crane rises slowly; glowing words flutter onto the branches and become leaves; her figure paints itself in with soft brushstrokes. 10 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+------------------------------------------------------------------------------
+S25   |   4:06 - 4:09.88
+------------------------------------------------------------------------------
+LYRIC / SECTION: Fade (end of audio)
+VISUAL: The frame flattens into a painting on the final letter's paper. Title written in by hand: TERE KHAT - Rudra_iy - BAS TU. Fade to cream, then black, exactly at 4:09.88.
+CAMERA: Static.
+TRANSITION: END.
+
+IMAGE PROMPT (copy everything below):
+An aged cream parchment with a faint watercolor of the lake and tree, and the handwritten title 'Tere Khat', below it 'Rudra_iy - Bas Tu' in brown ink. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.
+
+VIDEO PROMPT (image-to-video):
+The ink of the title writes itself in, then everything gently fades to cream and to black. 4 seconds. Slow, gentle, painterly motion. No morphing of faces; characters stay identical. Keep the watercolor paper texture throughout.
+
+==============================================================================
+SEQUENCES (if your video tool can't do everything at once)
+==============================================================================
+  Seq 1: 0:00-0:53  S01-S08   Letters open the memories
+  Seq 2: 0:53-1:54  S09-S12   Romance and the first crack
+  Seq 3: 1:54-2:46  S13-S18   Separation and the last letter
+  Seq 4: 2:47-3:26  S19-S20   Final chorus
+  Seq 5: 3:26-4:09.88  S21-S25  The hidden letter and the ending
+  Use the last frame of each sequence as the first frame of the next.
+
+==============================================================================
+FULL LYRICS
+==============================================================================
+# USKE KHAT
+
+[Intro – Soft Piano]
+
+Aaj phir khole maine, woh purane se khat,
+Kuch sookhe hue phool, kuch adhure jazbaat...
+Teri likhi hui baatein, ab bhi zinda hain,
+Bas tu hi nahi hai, jo kabhi kehti thi saath...
+
+[Verse 1]
+
+Almari ke kone mein, ek kitaab rakhi hai,
+Teri yaadon ki maine, har baat rakhi hai,
+Woh pehla sa khat tera, ab bhi sambhala hai,
+Jispe tune likha tha, "Tu kitna pyaara hai."
+
+Kuch lafz mit gaye hain, kuch yaad reh gaye,
+Jo keh na sake hum, woh khat keh gaye,
+Teri handwriting mein, ek sukoon sa tha,
+Tu door thi magar, dil ke kareeb sa tha.
+
+[Pre-Chorus]
+
+Ab na koi paighaam hai, na tera intezaar,
+Phir bhi kyun dil ko hai, tera hi khumaar,
+Main khud se poochhta hoon, har raat tanha,
+Kya tujhe bhi yaad aata hai woh guzra zamaana?
+
+[Chorus]
+
+Tere khat aaj bhi mere paas hain,
+Inmein chhupe kuch adhoore ehsaas hain,
+Tu toh chali gayi, mud ke dekha bhi nahi,
+Par tere lafzon mein hum aaj bhi khaas hain...
+
+Tere khat... tere khat...
+Meri raaton ki aakhri baat hain,
+Tu nahi, teri yaadein toh hain,
+Mere paas bas tere hi khat hain...
+
+[Verse 2]
+
+Ek khat mein likha tha, "Kabhi chhodna nahi,"
+Aaj sochta hoon, kyun kaha tha wahi?
+Kya waqt badal gaya, ya badal gaye hum?
+Ek hi shehar mein rehkar, ajnabi hue hum.
+
+Woh baarish ki raatein, woh chai ki dukaan,
+Tere saath guzra har ek woh armaan,
+Ab baarish bhi hoti hai, par tu nahi aati,
+Teri tarah koi bhi ab yaad nahi aati.
+
+[Bridge]
+
+Kaash ek baar tu saamne aa jaaye,
+Jo dil mein hai, tujhe sab bata jaaye,
+Na shikayat karunga, na sawaal karunga,
+Bas tere khaton ka ek jawaab maangunga...
+
+Tune aakhri khat mein likha tha,
+"Khush rehna mere bina..."
+Main aaj bhi koshish karta hoon,
+Par khush rehna aaya hi nahi...
+
+[Final Chorus]
+
+Tere khat aaj bhi mere paas hain,
+Inmein chhupe kuch adhoore ehsaas hain,
+Tu toh kisi aur ki duniya ban gayi,
+Hum aaj bhi wahi, jahan tere saath hain...
+
+Tere khat... tere khat...
+Meri tanhaayi ke humraaz hain,
+Tu laut kar aaye ya na aaye,
+Tere lafz mere saath hain...
+
+[Outro – Whisper]
+
+Aaj aakhri baar padhunga tujhe,
+Phir in khaton ko rakh dunga kahin...
+Par ek baat bataun...
+
+Jis din tujhe bhoolne ka socha tha,
+Us din tera ek naya khat mil gaya...
+
+Aur main phir se tera ho gaya...
+
+END

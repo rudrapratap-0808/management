@@ -1,0 +1,265 @@
+{
+  "title": "TERE KHAT",
+  "artist": "Rudra_iy",
+  "album": "BAS TU",
+  "source": "TERE_KHAT_Prompts.txt",
+  "tool": "Built-in image generation",
+  "sequence": [
+    {
+      "scene": "CS1",
+      "file": "CS1.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Character reference sheet on a plain cream paper background: the same young man shown front view, three-quarter view and side profile, plus two facial expressions (gentle smile, sad). Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks."
+    },
+    {
+      "scene": "CS2",
+      "file": "CS2.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Character reference sheet on a plain cream paper background: the same young woman shown front view, three-quarter view and side profile, plus two facial expressions (laughing, tender). Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks."
+    },
+    {
+      "scene": "S01",
+      "time": "0:00 - 0:08",
+      "file": "S01.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "An old teak wooden desk beside a lattice window, a warm sunbeam full of floating dust, a fountain pen, an inkpot, dried marigold flowers and an open dented tin box full of letters tied with string. Aarav, seen over his shoulder, gently opens an aged yellowed envelope. Quiet, nostalgic. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S02",
+      "time": "0:08 - 0:14",
+      "file": "S02.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Macro top-down view of dried pressed orange gulmohar petals sliding out of an old envelope onto a handwritten letter in faded sepia ink, visible paper grain. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (S01): same yellowed envelope, paper and desk details, top-down macro as specified."
+    },
+    {
+      "scene": "S03",
+      "time": "0:14 - 0:20",
+      "file": "S03.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Extreme close-up of elegant feminine handwriting in faded brown ink on cream paper, the letters faintly glowing golden as if alive. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (S02): same old cream letter and faded sepia handwriting, new extreme close-up as specified.\nShow softly faded handwritten ink with a faint golden glow; avoid prominent invented readable sentences."
+    },
+    {
+      "scene": "S04",
+      "time": "0:20 - 0:28",
+      "file": "S04.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Aarav sitting at the desk looking at an empty wooden chair opposite him; a faint translucent watercolor image of Meera sits in the chair smiling softly, warm sunlight. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 3 (S01): same desk, window, room and present-day wardrobe.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S05",
+      "time": "0:28 - 0:34",
+      "file": "S05.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Aarav opening an old wooden almirah in a dim warm room and pulling out a worn cloth-bound poetry book with many old letters sticking out of its pages. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S06",
+      "time": "0:34 - 0:40",
+      "file": "S06.png",
+      "width": 1671,
+      "height": 941,
+      "prompt": "Close-up of a handwritten line on old paper with the ink bleeding outward into soft watercolor washes that form a sunlit old college library. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (S06): edit this still: replace the invented English sentence with the specified letter line.\nImage 2 (S07): library location reference only, match the library in the watercolor bloom; do not add people.\nShow the exact first-letter line “Tu kitna pyaara hai” as the only legible handwritten wording."
+    },
+    {
+      "scene": "S07",
+      "time": "0:40 - 0:46",
+      "file": "S07.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "A sunlit old library with tall wooden shelves and golden light shafts. Meera hands a book with a folded note tucked inside to a shy Aarav; a few books lie on the floor between them. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout."
+    },
+    {
+      "scene": "S08",
+      "time": "0:46 - 0:53",
+      "file": "S08.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Wide shot of a calm lake at sunset with a huge peepal tree covered in golden autumn leaves. Aarav and Meera walk side by side along the bank, a small shy distance apart. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout."
+    },
+    {
+      "scene": "S09",
+      "time": "0:53 - 1:05",
+      "file": "S09.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Night scene painted as a diptych: on the left Aarav at an open window holding a lantern and old letters, a full moon; on the right Meera at a distant window under the same moon, both looking up. Muted amber and deep brown. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S10a",
+      "time": "1:05 - 1:11",
+      "file": "S10a.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "A wooden jetty over a golden lake at sunset. Meera sits writing a letter on her knee; Aarav sits beside her watching her tenderly; low sun, a few birds in the sky. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 3 (S08): same lakeside setting; frame on the jetty."
+    },
+    {
+      "scene": "S10b",
+      "time": "1:11 - 1:17",
+      "file": "S10b.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Close two-shot at the lake edge in golden light: Meera laughing as she flicks water at Aarav, who laughs and shields his face; droplets sparkle like gold. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 3 (S08): same lake location; use the closer framing described."
+    },
+    {
+      "scene": "S10c",
+      "time": "1:17 - 1:23",
+      "file": "S10c.png",
+      "width": 1671,
+      "height": 941,
+      "prompt": "A long tree-lined country road in desaturated cold amber. Meera walks away from the camera, back turned, small in the distance; dry leaves blow toward the viewer. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S10c): edit this exact still; preserve the composition and figure and change only the ambient lighting to the desaturated cold amber specified.\nThe scene is explicitly a colder flash-forward. Use desaturated cool gray-brown and subdued amber under overcast light. Remove the strong orange sunset glow while keeping the muted costume colors, and preserve the original road, silhouette, foliage and wind-blown leaves."
+    },
+    {
+      "scene": "S10d",
+      "time": "1:23 - 1:30",
+      "file": "S10d.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Warm golden afternoon under the peepal tree: Meera secretly slipping a sealed envelope into the pages of a cloth-bound poetry book while Aarav looks away at the lake; a small secret smile on her face. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 3 (S08): same lakeside peepal tree.\nImage 4 (S05): same cloth-bound poetry book."
+    },
+    {
+      "scene": "S11",
+      "time": "1:30 - 1:44",
+      "file": "S11.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Top-down view of Aarav sitting on a wooden floor surrounded by dozens of open handwritten letters, lit by a single warm lamp; deep amber shadows. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S12",
+      "time": "1:44 - 1:54",
+      "file": "S12.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "The same huge peepal tree by the lake with an empty wooden bench, autumn turning to grey rainy season, half the leaves gone, first raindrops on the water, muted sepia-grey. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (S08): same peepal tree and lakeshore without the characters; weather and season from the prompt."
+    },
+    {
+      "scene": "S13",
+      "time": "1:54 - 2:01",
+      "file": "S13.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Under the peepal tree in soft golden light, Meera tying a red thread on Aarav's wrist, both looking at each other with serious tender eyes. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 3 (S08): same lakeside peepal tree; closer framing."
+    },
+    {
+      "scene": "S14",
+      "time": "2:01 - 2:07",
+      "file": "S14.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "A rainy old Indian city street with weathered buildings in muted sepia. Aarav and Meera walk on opposite pavements under separate umbrellas, not noticing each other; an old bus between them. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S15",
+      "time": "2:07 - 2:13",
+      "file": "S15.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "A roadside chai stall at night with a glowing lantern, rain falling. Aarav and Meera share one umbrella and hold clay kulhad cups, laughing; steam rises. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout."
+    },
+    {
+      "scene": "S16",
+      "time": "2:13 - 2:21",
+      "file": "S16.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "The same roadside chai stall in the rain, cold amber light. Aarav sits alone on the wooden bench holding one clay cup, an empty space beside him. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S15): same chai stall, lantern and wooden bench; present-day changes per prompt.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S17",
+      "time": "2:21 - 2:34",
+      "file": "S17.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Late night at the wooden desk, lamplight. Aarav writing with a fountain pen, crumpled papers around him, a small stack of unsent letters tied with string beside the inkpot. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S01): same teak desk, room, inkpot and present-day wardrobe; night lighting.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S18",
+      "time": "2:34 - 2:46",
+      "file": "S18.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Close-up of Aarav silently reading an old letter, tears gathering in his eyes, warm lamplight on one side of his face, darkness on the other. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S01): same present-day wardrobe and desk setting.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S19a",
+      "time": "2:47 - 2:58",
+      "reuse": [
+        "S07.png",
+        "S10a.png",
+        "S15.png",
+        "S13.png"
+      ]
+    },
+    {
+      "scene": "S19b",
+      "time": "2:58 - 3:04",
+      "file": "S19b.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Night lake ghat with hundreds of floating diyas. Meera, now in a red and gold saree, far away laughing with soft blurred figures; Aarav small and alone on the opposite bank in the foreground, watching. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl.\nAs explicitly specified for this shot, Meera wears the red-and-gold Diwali saree instead of her usual mustard salwar outfit. Keep her established face, braid and jewelry."
+    },
+    {
+      "scene": "S19c",
+      "time": "3:04 - 3:11",
+      "file": "S19c.png",
+      "width": 1671,
+      "height": 941,
+      "prompt": "Wide shot of the bare peepal tree by the lake at dusk, Aarav standing alone on the exact spot where the couple once walked, his shawl moving in the wind. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S08): same peepal tree, viewpoint and lakeshore; bare tree and lone Aarav per prompt.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S20",
+      "time": "3:11 - 3:26",
+      "file": "S20.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Aarav under the peepal tree at dusk, dozens of old letters and golden leaves swirling around him in the wind like birds; he holds one letter to his chest with eyes closed. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S19c): same bare peepal tree, lakeshore, light and present-day wardrobe.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S21",
+      "time": "3:26 - 3:37",
+      "file": "S21.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Close-up of Aarav's hands tying a bundle of old letters with a red thread and laying it inside an old tin trunk, soft dim amber light. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S01): same tin letter box and present-day wardrobe.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl."
+    },
+    {
+      "scene": "S22",
+      "time": "3:37 - 3:50",
+      "file": "S22.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "A sealed yellowed envelope falling from an old cloth-bound book in slow motion, handwriting on its front, sunlight catching it; Aarav frozen in surprise behind it. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S05): same cloth-bound poetry book.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl.\nThe envelope front has the storyboard’s handwritten line exactly: \"Jis din mujhe bhoolna chaho, us din kholna.\""
+    },
+    {
+      "scene": "S23",
+      "time": "3:50 - 3:56",
+      "file": "S23.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Macro of a pressed heart-shaped peepal leaf resting on a short handwritten note inside an opened envelope, then Aarav's face breaking into a tearful smile, golden light. Aarav (present day): young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Slightly longer hair, tired eyes, a soft grey shawl over his kurta. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (S22): same envelope and room.\nAs specified in the pack, use cooler, dimmer amber for this present-day shot; keep the soft gray shawl.\nThe short note contains the storyboard’s handwritten line exactly: \"Main tumhare khaton mein hamesha rahungi.\" Show the leaf and his tearful smile together in the single scene still."
+    },
+    {
+      "scene": "S24",
+      "time": "3:56 - 4:06",
+      "file": "S24.png",
+      "width": 1671,
+      "height": 941,
+      "prompt": "Extreme wide shot of a golden lake at sunset; a giant peepal tree whose leaves are made of glowing handwritten words. Aarav sits beneath it; a translucent, softly painted Meera sits beside him, not touching. Bittersweet, breathtaking. Aarav: young Indian man, 24, slim build, warm wheatish skin, soft natural slightly wavy black hair falling over his forehead, light stubble, large expressive dark-brown eyes, thin face with a gentle jaw, cream khadi kurta with rolled sleeves, faded brown trousers, thin brown leather-strap wristwatch on left wrist, quiet introverted expression. Meera: young Indian woman, 22, slender, warm wheatish skin, very long flowing dark hair in a loose side braid with a small jasmine strand, soft round face, kind almond eyes, small dark bindi, thin gold jhumka earrings, mustard-yellow cotton salwar suit with a rust-orange dupatta, gentle warm smile. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (CS1): Aarav identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 2 (CS2): Meera identity reference only: match face, hair and costume per the scene; do not reproduce the sheet layout.\nImage 3 (S24): edit only the glowing canopy lettering in this exact scene; preserve the existing tree, lake, composition, and seated figures.\nReplace all English canopy words and stray misspelled text. Keep glowing cursive writing forming the leaves. Use only the following exact Roman Hindi words taken from the pack for clearly legible leaves: \"tumhare\", \"khaton\", \"hamesha\", \"saath\", \"yaad\", \"lafz\". Repeat sparingly on a few leaves. Other leaves are shaped by tiny delicate glowing cursive strokes, not readable words. Do not add new English words or a title. Keep everything else from the scene reference."
+    },
+    {
+      "scene": "S25",
+      "time": "4:06 - 4:09.88",
+      "file": "S25.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "An aged cream parchment with a faint watercolor of the lake and tree, and the handwritten title 'Tere Khat', below it 'Rudra_iy - Bas Tu' in brown ink. Hand-painted 2D watercolor animation still, vintage romantic storybook illustration, visible cream paper texture, soft ink linework, warm amber, sepia brown, faded cream, muted orange and soft golden yellow palette, golden-hour light, soft natural shadows, subtle film grain, dreamy nostalgic cinematic composition, wide 16:9 landscape frame. Avoid: 3D, CGI, plastic skin, anime, cartoon comedy, neon colors, saturated blue, text artifacts, extra fingers, deformed faces, changed hairstyles, modern phones, logos, watermarks.\n\nImage 1 (S24): faintly echo only the lake and tree as a watercolor on parchment."
+    }
+  ]
+}
